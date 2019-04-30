@@ -9,6 +9,9 @@ and others.
 
 ## Pre-Requisites
 
+
+
+
 In order to run this workshop, you will need:
 
 * A valid Github account
